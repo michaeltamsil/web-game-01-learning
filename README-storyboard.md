@@ -3,7 +3,7 @@ GOAL : Introduce Batam, make people's knows Batam, Barelang beach, Nongsa, Ruang
 FOCUS : player who knows batam well.
 What Game : Driving motorcycle from one place to another
 
-story : there is Wa'jek, an online bycicle taxi who deliver people to their destination. on riding there's obstacle he will bump to & with time limit. can Wa'jek deliver people on time? help him...
+story : there is Wakjeq, an online bycicle taxi who deliver people to their destination. on riding there's obstacle he will bump to & with time limit. can Wa'jek deliver people on time? help him...
 
 what we need : 
 
